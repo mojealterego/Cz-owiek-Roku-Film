@@ -7,7 +7,7 @@ Repozytorium jest centralnym źródłem prawdy (Single Source of Truth) dla adap
 ### Status
 - Repozytorium: `mojealterego/Cz-owiek-Roku-Film`
 - Dokumentacja projektu jest budowana od podstaw na bazie materiałów źródłowych i zatwierdzanych referencji.
-- Materiał bazowy: scenariusz 136 stron, książka 409 stron, podcast/transkrypcja, list otwarty, „Raport z piekła” oraz materiały referencyjne postaci.
+- Materiał bazowy: scenariusz 136 stron, książka 409 stron, podcast/transkrypcja, list otwarty, „Raport z piekła”, materiały referencyjne postaci oraz dodatkowe materiały wystawy „Sceny z życia”.
 - Docelowy pipeline: źródła → adaptacja → bible → sceny → shot list → prompty → generacja AI → montaż → sound design → master.
 
 ## Najważniejsza zasada
@@ -16,10 +16,14 @@ Nie wolno mieszać faktów źródłowych z decyzjami produkcyjnymi. Każdy istot
 - **ADAPTATION** — decyzja adaptacyjna;
 - **FILM DECISION** — decyzja reżyserska/produkcyjna;
 - **REFERENCE LOCK** — zatwierdzony wygląd/referencja;
-- **CONTINUITY LOCK** — element, którego nie wolno naruszyć.
+- **CONTINUITY LOCK** — element, którego nie wolno naruszyć;
+- **UNVERIFIED REFERENCE** — materiał zewnętrzny zachowany jako referencja, ale niezweryfikowany.
 
 ## Główne dokumenty
-- `docs/MASTER_PROJECT_STATE.md` — pełny stan ustaleń projektu.
+- `docs/MASTER_PROJECT_STATE.md` — nadrzędny stan projektu.
+- `docs/STORY_BIBLE.md` — pełna synteza fabuły, łuku Andrzeja, aktów i punktów zwrotnych.
+- `docs/CHRONOLOGY.md` — chronologia wydarzeń 2023–2025.
+- `docs/SOURCE_CATALOG.md` — katalog źródeł, hierarchia i zewnętrzne referencje.
 - `docs/SOURCES_AND_ADAPTATION.md` — matryca źródeł i zasady source-lock.
 - `docs/VISUAL_LANGUAGE.md` — język wizualny filmu.
 - `docs/TATTOO_BIBLE.md` — pełna mapa tatuaży i chronologia zmian.
@@ -36,7 +40,6 @@ Nie wolno mieszać faktów źródłowych z decyzjami produkcyjnymi. Każdy istot
 - `docs/CHARACTERS/ADRIAN.md` — visual reference Adriana.
 - `docs/CHARACTERS/TOMEK_TATUATOR.md` — visual/role bible Tomka.
 - `docs/CHARACTERS/TOMEK_WIFE.md` — reference/status żony Tomka.
-- `docs/CHARACTERS/` — katalog wszystkich zablokowanych referencji postaci.
 - `docs/ADAPTATIONS/TOMEK_WEDDING_PROPOSAL.md` — propozycja sceny wesela Tomka; obecnie niekanoniczna.
 - `docs/DECISION_LOG.md` — chronologiczny rejestr decyzji i continuity locks.
 
@@ -67,5 +70,23 @@ Istnieje propozycja adaptacyjna dodania wesela:
 
 **Wesele nie jest jeszcze kanonem scenariusza.** Nie zmienia obecnie liczby 74 scen ani runtime'u.
 
+## Fabuła — skrót kontrolny
+
+Film rozpoczyna się od publicznego triumfu Andrzeja jako „Człowieka Roku”, po czym natychmiast odsłania prywatne pęknięcie: rozpad relacji z Weroniką i utratę normalnego kontaktu z Zuzią. Konflikt przechodzi przez policję, sądy, procedury, opinie i instytucje. Andrzej fizycznie załamuje się i trafia na intensywną terapię.
+
+Po kryzysie odzyskuje kontrolę nad tym, co potrafi najlepiej: fotografią. „Projekt W.” staje się kontrnarracją wobec oczekiwanego publicznego spektaklu. Następnie historia rozszerza się na innych ojców, protest „Strajk Ojców” i media, które zamieniają prywatne cierpienie w produkt telewizyjny.
+
+Ostatnia próba porozumienia kończy się kolejnym powrotem do maszyny prawnej. System coraz wyraźniej przyjmuje postać zamkniętej sieci konkretnych ludzi i instytucji. W 2025 roku Andrzej przegrywa kolejne starcia, a jego własne słowa zostają wykorzystane przeciwko niemu.
+
+Jesienią 2025 wynajmuje nowe mieszkanie i przygotowuje pusty pokój dla Zuzi. Następuje załamanie. Film nie kończy się klasycznym zwycięstwem: Andrzej pozostaje świadkiem własnej historii. Kończy list, odkłada go obok fotografii Zuzi, a w absolutnej ciszy rozlega się migawka aparatu.
+
+## „SCENY Z ŻYCIA”
+
+Scena 12F scenariusza umieszcza Andrzeja 30 lipca 2024 w czeskiej galerii, gdzie prezentuje cykl „Sceny z życia”. Publiczne źródła potwierdzają wystawę w Galerii MOST w Czeskim Cieszynie od 30 lipca do 23 sierpnia 2024, obejmującą 41 prac przedstawiających codzienne sceny. citeturn0search0
+
+Użytkownik dostarczył trzy dodatkowe referencje YouTube związane z wystawą. Zostały zapisane w `docs/SOURCE_CATALOG.md`. Bezpośrednia treść tych materiałów nie została uznana za zweryfikowaną, ponieważ strony YouTube nie były dostępne do odczytu w tym przebiegu.
+
 ## Zasada aktualizacji
 Każde nowe ustalenie dotyczące fabuły, postaci, wyglądu, tatuaży, chronologii, sceny, języka wizualnego, promptów lub workflow ma być dopisywane do odpowiedniego dokumentu zamiast pozostawać wyłącznie w rozmowie.
+
+**Nie polegamy na pamięci pojedynczego okna czatu. Repozytorium ma przechować projekt.**
