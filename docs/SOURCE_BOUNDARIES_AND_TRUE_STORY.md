@@ -1,133 +1,139 @@
 # SOURCE BOUNDARIES & TRUE-STORY STATUS — CZŁOWIEK ROKU
 
-> Dokument kontrolny projektu. Ten dokument ustanawia ważne rozróżnienie pomiędzy rzeczywistą historią, książką oraz aktualną adaptacją scenariuszową filmu.
+> Dokument kontrolny projektu. Ustanawia rozróżnienie pomiędzy rzeczywistą historią, wcześniejszym scenariuszem, późniejszą książką oraz materiałami audiowizualnymi powstałymi później.
 
 ## 1. STATUS HISTORII
 
-**„Człowiek Roku” opowiada historię prawdziwą.**
+**„Człowiek Roku” jest historią prawdziwą.**
 
-Materiał nie jest fikcyjną historią wymyśloną na potrzeby filmu. Książka i scenariusz odnoszą się do rzeczywistych wydarzeń, doświadczeń i osób przedstawianych w ramach projektu.
+Najważniejszy kanon projektu stanowią rzeczywiste wydarzenia. Scenariusz został napisany **wcześniej**, natomiast książka powstała **później** i zawiera szerszy/dalszy zapis tej samej historii.
 
-### Zasada nadrzędna
+Obowiązuje zatem:
 
-Adaptacja filmowa może kondensować, porządkować, łączyć lub wizualnie syntetyzować materiał, ale nie może traktować faktów jako swobodnego materiału do wymyślania nowej historii.
+`RZECZYWISTA HISTORIA → WCZEŚNIEJSZY SCENARIUSZ → PÓŹNIEJSZA KSIĄŻKA → DALSZE MATERIAŁY / STAN HISTORII`
 
-Każda decyzja adaptacyjna musi być oznaczona i możliwa do odróżnienia od faktu źródłowego.
+Nie wolno traktować późniejszego materiału książkowego jako fikcyjnego dodatku tylko dlatego, że nie występował we wcześniejszym scenariuszu.
 
----
+## 2. SCENARIUSZ A KSIĄŻKA — RÓŻNA GRANICA KOŃCA
 
-## 2. KSIĄŻKA NIE KOŃCZY SIĘ W TYM SAMYM MIEJSCU CO SCENARIUSZ
-
-To krytyczne rozróżnienie dla dalszej pracy.
-
-**Książka jest narracyjnie dłuższa niż aktualny scenariusz filmu.**
-
-Scenariusz obejmuje cztery akty:
+Aktualny scenariusz filmu kończy się po czterech aktach:
 
 1. **AKT I — PĘKNIĘCIE**
 2. **AKT II — WALKA Z MUREM**
 3. **AKT III — BEZ PRAWA**
 4. **AKT IV — OPINIA (I FINAŁ)**
 
-Na tym kończy się obecna konstrukcja filmu fabularnego.
+To jest granica **obecnej wersji scenariusza**, a nie granica całej prawdziwej historii.
 
-Książka idzie dalej.
+**AKT IV książki trwa dalej niż obecny filmowy finał.** Nie wolno utożsamiać końca AKTU IV scenariusza z końcem AKTU IV książki.
 
----
+## 3. KONKRETNE POTWIERDZENIE DALSZEGO CIĄGU KSIĄŻKI
 
-## 3. DALSZA CZĘŚĆ KSIĄŻKI — AKT OSKARŻENIA
+W książce po rozdziale 68, który posiada wewnętrzną formułę „Koniec”, następują jeszcze:
 
-Po czterech głównych aktach książka zawiera jeszcze krótki, odrębny:
+- **ROZDZIAŁ 69 — „System nie tylko odebrał mi Zuzię. Zabrał mi też prawo do życia w normalnym świecie.”**
+- **ROZDZIAŁ 70 — „Zostały mi słowa. Jedyne, czego nie mogli mi zabrać. Jedyne, co jeszcze miało jakąkolwiek wagę. To był mój ostatni kadr.”**
+
+Rozdział 69 pokazuje następstwa decyzji Sądu Apelacyjnego, utrzymania zakazu zbliżania oraz ostatecznego załamania Andrzeja. Rozdział 70 prowadzi do nocnego pisania listu do Zuzi.
+
+## 4. PUNKT, W KTÓRYM FILM I KSIĄŻKA SIĘ ROZCHODZĄ
+
+Obecny filmowy finał wykorzystuje rdzeń rozdziału 70: noc, pusty pokój Zuzi, biurko, list, miłość ojca, słowa jako ostatni gest oraz fotograficzny motyw końcowego kadru.
+
+Książka **nie kończy jednak historii w tym miejscu**.
+
+Po zakończeniu listu pojawia się bezpośrednie przełamanie pozornego finału: „Myślisz, że to koniec? Że jak książka się kończy, to historia też? Gówno prawda.” Następnie książka stwierdza, że rozwód i sprawa karna nadal trwają, a Sąd Apelacyjny podtrzymał bezterminowy zakaz zbliżania się do Zuzi. Brak kontaktu z córką jest opisany jako stan trwający „do teraz”.
+
+**Wniosek:** filmowy „Koniec” nie jest końcem rzeczywistej historii opisanej w książce.
+
+## 5. AKT OSKARŻENIA — 3 ROZDZIAŁY
+
+Po dalszym ciągu po rozdziale 70 książka przechodzi do wyraźnie oznaczonego:
 
 # AKT OSKARŻENIA
 
-**Liczba rozdziałów: 3.**
+Trzy zasadnicze części/rozdziały to:
 
-Akt ten nie jest obecnie częścią czteroaktowej konstrukcji scenariusza filmu.
+1. **TRUCIZNA, CZYLI SŁOWO O ALIENACJI** — alienacja rodzicielska, jej mechanizm, skutki dla dziecka oraz zarzuty wobec sposobu reagowania systemu.
+2. **UKŁAD ZAMKNIĘTY, CZYLI JAK DZIAŁA CIESZYN** — opisywana przez narratora sieć relacji pomiędzy MOPS, „Być Razem”, prawnikami, sądem, policją, biznesem i innymi osobami/podmiotami.
+3. **WYROK TO ONI** — rozszerzony akt oskarżenia wymierzony w opisany mechanizm; obejmuje osoby, instytucje, zarzuty dotyczące postępowań oraz dalsze okoliczności historii.
 
-Nie wolno zatem:
+**Status:** część książki, nie część obecnej czteroaktowej wersji scenariusza.
 
-- twierdzić, że książka kończy się na finale AKTU IV;
-- utożsamiać końca filmu z końcem całej książki;
-- dopisywać treści trzech rozdziałów AKTU OSKARŻENIA na podstawie domysłów;
-- automatycznie przenosić AKTU OSKARŻENIA do scenariusza bez decyzji adaptacyjnej;
-- usuwać tej części książki z katalogu źródeł tylko dlatego, że nie została obecnie zaadaptowana do filmu.
+## 6. DWA MATERIAŁY AUDIOWIZUALNE DOSTARCZONE PRZEZ UŻYTKOWNIKA
 
-### Status adaptacyjny
+Dostarczony PDF zawiera analizę dwóch wskazanych materiałów YouTube.
 
-`KSIĄŻKA → AKT OSKARŻENIA (3 rozdziały) → POZA AKTUALNYM SCENARIUSZEM FILMU`
+### A. „UKŁAD ZAMKNIĘTY CZYLI JAK DZIAŁA CIESZYN — Jak to się robi w Cieszynie”
 
-Treść tych trzech rozdziałów musi zostać przeanalizowana bezpośrednio z książki przed podjęciem jakiejkolwiek decyzji, czy i w jakiej formie może zostać wykorzystana w filmie, napisach, epilogu, materiale pofilmowym albo osobnym projekcie.
+Video ID: `Pg0aOoADpA4`.
+Data publikacji według analizy: 5 grudnia 2025 r. Czas: 4:22.
 
----
+Materiał rozwija przede wszystkim wątek systemowy: MOPS, Zespół Interdyscyplinarny, „Być Razem”, infrastruktura pomocowa, biznesy społeczne, relacje personalne, sąd i policja. Narracja przedstawia model „układu zamkniętego”.
 
-## 4. GRANICA: FAKT / KSIĄŻKA / SCENARIUSZ / FILM
+### B. „11 maja 2026”
 
-Projekt należy od tej chwili prowadzić w czterech wyraźnych warstwach:
+Video ID: `BftzMC6j10Y`.
+Data publikacji według analizy: 11 maja 2026 r. Czas: 4:21.
 
-### WARSTWA A — HISTORIA RZECZYWISTA
-To wydarzenia i doświadczenia stanowiące rzeczywistą podstawę opowieści.
+Materiał przedstawia dalszą ewolucję bohatera:
 
-### WARSTWA B — KSIĄŻKA
-To autorska narracja tej historii: wybór faktów, kolejność narracyjna, komentarz, psychologia, monolog, język, metafory i konstrukcja literacka.
+`OFIARA SYSTEMU → PRZETRWANIE → TWÓRCZOŚĆ I NAUKA → MOBILIZACJA SPOŁECZNA`
 
-### WARSTWA C — SCENARIUSZ
-To konkretna adaptacja filmowa obejmująca obecnie cztery akty i określony runtime.
+Według dostarczonej analizy pojawiają się tam m.in. stan po uniewinnieniu z pomówień, przetrwanie zapaści zdrowotnej, decyzja o „zniknięciu” w celu ochrony córki, rozwój dorobku intelektualnego/artystycznego oraz mobilizacja innych ojców. Wątek 15 maja i Warszawy jest przedstawiony jako przejście od fazy analitycznej do operacyjnej.
 
-### WARSTWA D — FILM
-To wykonanie audiowizualne scenariusza: obraz, montaż, dźwięk, aktorstwo, kamera, scenografia, rytm i inne decyzje produkcyjne.
+## 7. CO TO OZNACZA DLA FILMU
 
-Schemat kontroli:
+**Nie zmieniamy automatycznie obecnego scenariusza.**
 
-`RZECZYWISTOŚĆ → KSIĄŻKA → SCENARIUSZ → FILM`
+Ale od teraz obowiązuje zakaz uznawania obecnego zakończenia filmu za ostateczny koniec historii źródłowej.
 
-Nie należy odwracać tej hierarchii.
+Mapa do dalszej decyzji:
 
----
+`KONIEC OBECNEGO SCENARIUSZA`
 
-## 5. KONSEKWENCJA DLA DALSZEJ ADAPTACJI
+↓
 
-Jeżeli książka zawiera wydarzenie, postać, fakt, wypowiedź lub konsekwencję, której nie ma w obecnym scenariuszu, brak ten nie oznacza, że element został wymyślony albo że nie istnieje.
+`DALSZA CZĘŚĆ AKTU IV KSIĄŻKI`
 
-Może oznaczać po prostu, że:
+↓
 
-- został pominięty w aktualnej adaptacji;
-- został skondensowany;
-- został przesunięty;
-- został wykorzystany jako materiał psychologiczny/narracyjny;
-- albo pozostaje poza zakresem obecnej wersji filmu.
+`ROZDZIAŁY 69–70 / DALSZY CIĄG PO LIŚCIE`
 
-Każdy taki przypadek wymaga jawnej decyzji adaptacyjnej.
+↓
 
----
+`AKT OSKARŻENIA — 3 CZĘŚCI`
 
-## 6. ZASADA DLA AKTU OSKARŻENIA
+↓
 
-**AKT OSKARŻENIA jest częścią książki i należy go zachować w pełnym katalogu źródłowym projektu, nawet jeśli aktualny film kończy się wcześniej.**
+`PÓŹNIEJSZY STAN HISTORII / MATERIAŁY 2025–2026`
 
-Do czasu bezpośredniego opracowania jego trzech rozdziałów obowiązuje status:
+Dopiero po takim porównaniu należy zdecydować, czy film:
 
-**SOURCE-PRESERVED / NOT YET ADAPTED**
+- pozostaje zamknięty na obecnym finale;
+- otrzymuje wydłużony AKT IV;
+- otrzymuje epilog;
+- wykorzystuje AKT OSKARŻENIA jako końcowy montaż/postscriptum;
+- albo świadomie pozostawia dalszą część historii poza filmem.
 
-Nie wolno tworzyć streszczenia, scen, dialogów ani wizualnych interpretacji tych rozdziałów bez pracy na ich rzeczywistej treści.
+## 8. ZASADA KANONICZNA
 
----
+Jeżeli późniejsza książka lub późniejszy materiał audiowizualny zawiera wydarzenie, którego nie ma we wcześniejszym scenariuszu, **nie oznacza to sprzeczności ani fikcji**.
 
-## 7. RELACJA DO OBECNEGO FINAŁU FILMU
+Najpierw ustalamy chronologię rzeczywistych wydarzeń, następnie określamy, dlaczego wcześniejszy scenariusz kończył się wcześniej, a dopiero potem podejmujemy decyzję filmową.
 
-Obecny film kończy się w **AKCIE IV — OPINIA (I FINAŁ)**, a jego finał filmowy pozostaje bez zmian:
+Książka i scenariusz są zapisami tej samej prawdziwej historii powstałymi w różnym czasie. Późniejsza książka może zawierać fakty i konsekwencje, których wcześniejszy scenariusz nie mógł jeszcze uwzględniać.
 
-Andrzej kończy list, odkłada go obok fotografii Zuzi. Następuje absolutna cisza, słychać migawkę aparatu, obraz przechodzi w czerń i pojawiają się napisy.
+## 9. STATUS
 
-To jest **koniec obecnego scenariusza filmu**, a nie stwierdzenie, że jest to koniec całej książki.
+**TRUE STORY LOCK: ACTIVE**
 
----
+**BOOK EXTENSION BEYOND SCREENPLAY: CONFIRMED**
 
-## 8. REGUŁA DOKUMENTACYJNA
+**ACT IV BOOK EXTENDS BEYOND CURRENT SCREENPLAY: CONFIRMED**
 
-W każdym kolejnym dokumencie projektu, który opisuje strukturę historii, należy rozróżniać:
+**ACT OSKARŻENIA — 3 CZĘŚCI: CONFIRMED**
 
-- **„koniec filmu / scenariusza”** — po AKCIE IV;
-- **„koniec książki”** — po AKCIE IV oraz dodatkowym AKCIE OSKARŻENIA obejmującym 3 rozdziały.
+**AUTOMATIC SCREENPLAY CHANGE: NOT APPROVED**
 
-To rozróżnienie jest obowiązkowe dla przyszłych audytów, storyboardów, shot list, promptów, montażu oraz dokumentacji produkcyjnej.
+Najpierw analiza adaptacyjna. Potem decyzja. Nigdy odwrotnie.
