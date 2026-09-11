@@ -21,6 +21,7 @@ Centralny indeks referencji postaci. Dokument rozdziela **REFERENCE LOCK**, **SO
 | Michał | LOCKED | Dostarczone zdjęcie jako primary visual reference; na referencji stoi obok Tadeusza w przestrzeni wystawienniczej. |
 | Tadeusz | LOCKED | Dostarczone zdjęcie jako primary visual reference; fotograf; uczestnik wystawy "Projekt W."; na referencji stoi obok Michała. |
 | Wiesław | LOCKED | Ojciec Andrzeja; dziadek Zuzi; dostarczone zdjęcie jako primary visual reference. |
+| Renata | LOCKED | Mama Andrzeja; babcia Zuzi; dostarczone zdjęcie jako primary visual reference. |
 
 ## RELATIONSHIP LOCKS
 
@@ -28,6 +29,8 @@ Centralny indeks referencji postaci. Dokument rozdziela **REFERENCE LOCK**, **SO
 - Andrzej ↔ Zuzia — ojciec/córka.
 - Wiesław ↔ Andrzej — ojciec/syn.
 - Wiesław ↔ Zuzia — dziadek/wnuczka.
+- Renata ↔ Andrzej — matka/syn.
+- Renata ↔ Zuzia — babcia/wnuczka.
 - Karol ↔ Sebastian — starszy/młodszy brat.
 - Tomek ↔ Żona Tomka — małżeństwo.
 - Andrzej ↔ Bożena — wspólna obecność w dostarczonej fotografii; charakter relacji poza tym kadrem wymaga źródła.
