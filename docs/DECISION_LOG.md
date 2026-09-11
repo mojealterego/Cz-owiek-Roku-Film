@@ -98,6 +98,15 @@ The same photograph contains a woman whom the user explicitly identifies as **To
 ### D-031 — Tomek's wife source integrity
 Only the relationship label “Tomek's wife” and visible appearance are currently locked. No additional narrative facts may be inferred from the photograph.
 
+### D-032 — Tomek's wife current film status
+Tomek's wife **does not currently appear in the film**. The supplied photograph remains a reference only.
+
+### D-033 — Proposed wedding adaptation
+User proposed potentially adding a wedding scene for Tomek. In the proposed scene, **Andrzej is the wedding photographer**, and the wedding photography serves as the **settlement/payment for Tomek's tattoo work**. This would organically connect Andrzej's profession with the tattoo transformation and provide a reason for Tomek's wife to appear on screen.
+
+### D-034 — Wedding scene is not yet canonical
+The Tomek wedding is currently a **PROPOSED ADAPTATION / SCENE OPTION**, not a canonical screenplay scene. It must not be inserted into the official scene map or runtime until explicitly approved by the user.
+
 ## Ongoing update protocol
 
 When the user supplies a new:
