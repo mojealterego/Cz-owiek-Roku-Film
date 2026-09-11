@@ -1,32 +1,50 @@
-# TOMEK'S WIFE — VISUAL REFERENCE
+# TOMEK'S WIFE — REFERENCE / STATUS
 
 ## STATUS
 
 - User identifies the woman in the supplied photograph as **Tomek's wife**.
-- Her name has not yet been supplied.
-- Her film role/appearance has not yet been specified.
+- She **does not currently appear in the film**.
+- Her name has not been supplied.
+- Her film role/appearance remains unassigned.
+
+## CONDITIONAL SCENE — WEDDING
+
+The user proposed a possible additional scene at **Tomek's wedding**.
+
+Concept:
+- Andrzej is the photographer at the wedding.
+- The wedding would provide a natural on-screen appearance for Tomek's wife.
+- The wedding photography could function as the **settlement/payment mechanism for Andrzej's tattoo work by Tomek**: Andrzej photographs the wedding as the way they settle the tattoo work.
+
+This is currently a **PROPOSED ADAPTATION / SCENE OPTION**, NOT YET A CANONICAL SCREENPLAY SCENE.
+
+Do not add the wedding to the official scene map until the user explicitly approves it as part of the film.
 
 ## VISUAL REFERENCE
 
-The supplied photograph shows an adult woman beside Tomek in an outdoor setting.
+The supplied photograph remains a visual reference for Tomek's wife if the wedding scene is eventually approved.
 
-Visible reference characteristics:
+Visible characteristics:
 - adult woman;
-- red/auburn hair, medium-to-long, styled with volume;
+- red/auburn medium-to-long hair with volume;
 - light complexion;
 - defined eyebrows and eye makeup;
 - feminine facial features;
-- visible tattoos on both arms, including a prominent tattooed upper arm/forearm area;
-- visible delicate tattoo/marking near the upper chest/collarbone;
+- tattoos visible on both arms;
+- delicate tattoo/marking near upper chest/collarbone;
 - light-colored sleeveless/formal dress in the reference photograph;
-- holding a bouquet of white flowers.
+- bouquet of white flowers in the reference photograph.
 
-The dress, bouquet, garden and event setting are photographic context and are not global film locks.
+The dress, bouquet, garden and wedding/event environment shown in the reference are **not** global film locks.
 
 ## SOURCE INTEGRITY
 
-Do not infer her name, occupation, personality, biography, dialogue or whether she appears on screen until supported by the source or explicitly supplied by the user.
+Do not infer her name, occupation, personality, biography or dialogue from the photograph.
 
-## CONTINUITY
+## DRAMATURGICAL NOTE — IF APPROVED
 
-If she is later established as an on-screen character, this image becomes her primary visual reference unless the user provides a later/corrected reference.
+The proposed wedding scene has potential double function:
+1. establish Tomek's wife organically rather than adding a gratuitous character appearance;
+2. connect Andrzej's profession as a photographer with the practical economy of his tattoo transformation.
+
+The exact placement in chronology, wedding date, dialogue, duration, visual treatment and exact settlement arrangement must be determined before the scene enters the canonical production plan.
