@@ -168,6 +168,8 @@ Dźwięk migawki jest powracającym motywem:
 
 Andrzej, 42-letni górnik i uznany fotograf, zostaje wciągnięty w konflikt rodzinny i systemowy po rozpadzie relacji z Weroniką oraz utracie normalnego kontaktu z córką Zuzią. Historia przechodzi od osobistego pęknięcia przez walkę z instytucjami do publicznego działania i manifestu.
 
+Pełna narracyjna synteza znajduje się w `docs/STORY_BIBLE.md`, a kontrola dat w `docs/CHRONOLOGY.md`.
+
 ## 8. GŁÓWNE POSTACIE
 
 ### ANDRZEJ
@@ -277,6 +279,65 @@ Ustalenia:
 
 W finale Andrzej kończy list, odkłada go obok fotografii Zuzi. W absolutnej ciszy słyszymy migawkę aparatu. Następuje ciemność i napisy.
 
-## 15. ZASADA DLA DALSZEJ PRACY
+## 15. SCREENPLAY STORY CONTROL
 
-Nie wracamy do pytań o rzeczy już ustalone. Nowe informacje mają być dopisywane do właściwego dokumentu i traktowane jako obowiązujący stan projektu, chyba że użytkownik później jawnie je zmieni.
+The screenplay is now represented in dedicated repository documents:
+
+- `docs/STORY_BIBLE.md` — full narrative spine, acts, character arc, dramatic paradoxes and ending.
+- `docs/CHRONOLOGY.md` — date/event chronology from December 2023 through the 2025 finale.
+- `docs/SCENE_MAP.md` — scene-level structure.
+
+The film currently resolves into four narrative movements:
+
+1. **AKT I — PĘKNIĘCIE** — 0:00–21:00.
+2. **AKT II — WALKA Z MUREM** — 21:00–50:30.
+3. **AKT III — BEZ PRAWA** — 50:30–1:22:09.
+4. **AKT IV — OPINIA (I FINAŁ)** — 1:22:09–1:32:39.
+
+The final credits extend the total runtime to approximately 1:32:54.
+
+## 16. SCENY-KOTWICE
+
+### SCENA 1 — TEATR / CZŁOWIEK ROKU
+Public prestige versus hidden rupture.
+
+### SCENA 2 — KIDDY PARK
+Family conflict becomes immediate and physical.
+
+### SCENA 7 — SZPITAL
+Physical collapse; survival without resolution.
+
+### SCENA 10D — EKOTRADYCJA / PROJEKT W.
+Photography becomes a counter-narrative.
+
+### SCENA 12F — GALERIA W CZECHACH / SCENY Z ŻYCIA
+Andrzej is publicly an artist while privately living inside the conflict.
+
+### SCENA 12G.2 — CYRK MEDIALNY
+Private suffering becomes television content.
+
+### SCENA 12H — GRA W POROZUMIENIE
+A final attempt to believe that reconciliation is possible.
+
+### SCENA 13A / 13C — LATE COURTROOMS
+Institutional narrative becomes increasingly irreversible.
+
+### SCENA 19A — ZAŁAMANIE
+The new apartment becomes a psychological tomb.
+
+### FINAŁ — LIST + FOTOGRAFIA ZUZII + MIGAWKA
+The story ends with testimony rather than conventional victory.
+
+## 17. "SCENY Z ŻYCIA" — EXHIBITION REFERENCE
+
+The screenplay's SCENA 12F takes place on 30 July 2024 in a Czech gallery and explicitly presents Andrzej's works from the cycle "Sceny z życia".
+
+External research independently confirms a "Sceny z życia" exhibition at Galeria MOST in Český Těšín from 30 July to 23 August 2024, consisting of 41 works depicting everyday scenes. This external fact is retained as reference context; the screenplay remains authoritative for the film sequence.
+
+User-supplied YouTube references connected to the exhibition are stored in `docs/SOURCE_CATALOG.md`. Their direct video content was not verified in this update because the supplied YouTube pages were not retrievable through the available web interface.
+
+## 18. REPOSITORY PRINCIPLE
+
+The repository is the persistent project memory. Every new character, scene, tattoo, wardrobe lock, chronology correction, source interpretation, adaptation decision, prompt rule or production workflow decision must be written here and/or in the relevant specialist document.
+
+Do not rely on the lifespan of a single chat window.
