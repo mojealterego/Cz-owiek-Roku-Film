@@ -59,6 +59,15 @@ The dog, wooden deck chair and exact location/background visible in Karol's refe
 ### D-018 — Karol narrative importance
 Karol must not be treated as background extra. In the source he is a neighbor who delivers a key revelation about Weronika and Dawid and later helps Andrzej with documents and court-related writing; his visual identity therefore requires continuity across his appearances. fileciteturn31file2L102-L114
 
+### D-019 — Sebastian visual reference
+User supplied a photograph as the visual reference for Sebastian, the younger brother of Karol. Source establishes Sebastian as 24 years old. The photograph establishes a young male appearance with very short hair, dark rectangular glasses, light complexion, stockier build, strong arms and visible tattooing on the right arm/forearm.
+
+### D-020 — Sebastian photo-specific context is not a character lock
+The dog, furniture, room and exact clothing visible in Sebastian's reference photograph are photographic context only and are not permanent film elements unless supported by a scene source.
+
+### D-021 — Karol/Sebastian relationship continuity
+Sebastian must remain visually distinct from Karol while being consistently recognizable as his younger brother. Do not generate Sebastian as a duplicate of Karol or as an interchangeable extra.
+
 ## Ongoing update protocol
 
 When the user supplies a new:
