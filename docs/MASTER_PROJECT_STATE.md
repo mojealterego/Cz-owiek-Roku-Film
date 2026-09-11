@@ -1,6 +1,6 @@
 # MASTER PROJECT STATE — CZŁOWIEK ROKU
 
-> Dokument nadrzędny. Zawiera ustalenia obowiązujące na moment inicjalizacji repozytorium.
+> Dokument nadrzędny. Zawiera ustalenia obowiązujące na moment inicjalizacji i bieżącej aktualizacji repozytorium.
 
 ## 1. TOŻSAMOŚĆ PROJEKTU
 
@@ -184,12 +184,18 @@ Andrzej, 42-letni górnik i uznany fotograf, zostaje wciągnięty w konflikt rod
 ### ZUZIA
 - 8 lat;
 - córka Andrzeja;
-- dziecko uwikłane pomiędzy miłość do ojca, lojalność, lęk i konflikt dorosłych.
+- dziecko uwikłane pomiędzy miłość do ojca, lojalność, lęk i konflikt dorosłych;
+- użytkownik dostarczył trzy fotografie referencyjne: dwa wspólne ujęcia z Weroniką i jedno samodzielne;
+- fotografie są primary visual reference dla twarzy, włosów, proporcji i naturalnej dziecięcej fizyczności;
+- świąteczna scenografia/garderoba ze zdjęć nie jest globalnym lockiem produkcyjnym.
 
 ### WERONIKA
 - żona/partnerka Andrzeja;
 - relacja z Andrzejem jest centralnym źródłem rozpadu jego dotychczasowego życia;
-- jej portret jest pierwotnym tatuażem na plecach Andrzeja, który później zostaje przekształcony.
+- jej portret jest pierwotnym tatuażem na plecach Andrzeja, który później zostaje przekształcony;
+- użytkownik dostarczył fotografie referencyjne Weroniki razem z Zuzią;
+- fotografie są primary visual reference dla twarzy, włosów, proporcji i naturalnego wyglądu;
+- świąteczna scenografia/garderoba ze zdjęć nie jest globalnym lockiem produkcyjnym.
 
 ### PAULINA
 - postać drugoplanowa;
@@ -197,7 +203,15 @@ Andrzej, 42-letni górnik i uznany fotograf, zostaje wciągnięty w konflikt rod
 - **ustalenie użytkownika: Paulina pojawia się w 59. rozdziale, w lodziarni.**
 - Materiały wizualne dostarczone przez użytkownika służą jako reference lock wyglądu; nie wolno na ich podstawie dopisywać biografii, osobowości ani roli, których nie określono w źródle.
 
-## 9. PAULINA — STATUS
+## 9. CHARACTER REFERENCE POLICY
+
+Zdjęcia dostarczone przez użytkownika dla Andrzeja, Zuzi, Weroniki i Pauliny są referencjami ciągłości wizualnej. Nie są automatycznie źródłem fabuły.
+
+Z fotografii wolno wyprowadzać tylko cechy widoczne i potrzebne do zachowania wizualnej ciągłości. Nie wolno na ich podstawie dopisywać tożsamości, biografii, psychologii, zawodu, relacji ani wydarzeń.
+
+Każda garderoba, fryzura, scenografia i stan fizyczny muszą być podporządkowane chronologii oraz konkretnej scenie.
+
+## 10. PAULINA — STATUS
 
 **FIRST KNOWN APPEARANCE:** rozdział 59.
 **LOCATION:** lodziarnia.
@@ -205,7 +219,7 @@ Andrzej, 42-letni górnik i uznany fotograf, zostaje wciągnięty w konflikt rod
 
 Numeracja rozdziału i numeracja scenariuszowych scen są przechowywane oddzielnie. Nie wolno automatycznie utożsamiać „rozdziału 59” z numerem sceny bez potwierdzenia źródłowego.
 
-## 10. TATUAŻE ANDRZEJA — NAJWAŻNIEJSZY LOCK
+## 11. TATUAŻE ANDRZEJA — NAJWAŻNIEJSZY LOCK
 
 ### Chronologia pleców
 **PRZED TRANSFORMACJĄ:**
@@ -221,7 +235,7 @@ Portret Weroniki zostaje przekształcony w duży kobiecy portret inspirowany San
 Przed punktem transformacji nie wolno pokazywać późniejszego tatuażu Santa Muerte.
 Nie wolno anticipować niebieskich włosów, późniejszej kolorystyki ani nowej wersji projektu.
 
-## 11. KSIĄŻKA JAKO WARSTWA PSYCHOLOGICZNA
+## 12. KSIĄŻKA JAKO WARSTWA PSYCHOLOGICZNA
 
 Najważniejsze ustalone elementy:
 - fotografia jako „łapanie kłamstw”;
@@ -243,7 +257,7 @@ Najważniejsze ustalone elementy:
 - Zuzia ukrywająca zmięte zdjęcie przed Weroniką;
 - pytanie, czy Zuzia pamięta ojca.
 
-## 12. PODCAST — RDZEŃ NARRACYJNY
+## 13. PODCAST — RDZEŃ NARRACYJNY
 
 Ustalenia:
 - książka jest konstruowana jak „maszyna” do utrzymywania uwagi;
@@ -259,10 +273,10 @@ Ustalenia:
 - „Strajk Ojców Online” / hashtag jako element ruchu;
 - ból staje się ruchem i manifestem.
 
-## 13. KONIEC
+## 14. KONIEC
 
 W finale Andrzej kończy list, odkłada go obok fotografii Zuzi. W absolutnej ciszy słyszymy migawkę aparatu. Następuje ciemność i napisy.
 
-## 14. ZASADA DLA DALSZEJ PRACY
+## 15. ZASADA DLA DALSZEJ PRACY
 
 Nie wracamy do pytań o rzeczy już ustalone. Nowe informacje mają być dopisywane do właściwego dokumentu i traktowane jako obowiązujący stan projektu, chyba że użytkownik później jawnie je zmieni.
