@@ -50,6 +50,15 @@ User supplied two reference photographs showing Weronika with Zuzia. These photo
 ### D-015 — Zuzia/Weronika shared-frame continuity
 The supplied photographs provide a direct visual reference for Zuzia and Weronika appearing together. Their shared appearance should be preserved in AI character consistency, while no additional psychological, biographical or narrative facts may be inferred solely from the photographs.
 
+### D-016 — Karol visual reference
+User supplied a photograph as the visual reference for Karol. The reference establishes: adult male around the source-established age of 30; very short/buzz-cut hair; thin rectangular prescription glasses; light complexion; short natural facial hair/stubble; stocky/natural build; broad shoulders; strong forearms; extensive tattooing on the right arm/forearm; informal everyday appearance.
+
+### D-017 — Karol photo-specific context is not a character lock
+The dog, wooden deck chair and exact location/background visible in Karol's reference photograph are not automatically part of the film character or permanent set. They are photographic context only unless later supported by the source.
+
+### D-018 — Karol narrative importance
+Karol must not be treated as background extra. In the source he is a neighbor who delivers a key revelation about Weronika and Dawid and later helps Andrzej with documents and court-related writing; his visual identity therefore requires continuity across his appearances. fileciteturn31file2L102-L114
+
 ## Ongoing update protocol
 
 When the user supplies a new:
