@@ -107,6 +107,21 @@ User proposed potentially adding a wedding scene for Tomek. In the proposed scen
 ### D-034 — Wedding scene is not yet canonical
 The Tomek wedding is currently a **PROPOSED ADAPTATION / SCENE OPTION**, not a canonical screenplay scene. It must not be inserted into the official scene map or runtime until explicitly approved by the user.
 
+### D-035 — Screenplay story bible
+The 136-page screenplay has now been consolidated into `docs/STORY_BIBLE.md` as a narrative control layer. The screenplay remains authoritative for exact action, dialogue and scene-level execution.
+
+### D-036 — Screenplay chronology
+The dated chronology from December 2023 through the 2025 finale has been consolidated into `docs/CHRONOLOGY.md`. Book chapter numbering remains separate from screenplay scene numbering.
+
+### D-037 — Source catalog
+`docs/SOURCE_CATALOG.md` is now the project register for screenplay, book, podcast, open letter, Raport z piekła, visual references and external exhibition references.
+
+### D-038 — Sceny z życia external references
+The user supplied three YouTube links connected to the "Sceny z życia" exhibition. The links are preserved as **UNVERIFIED REFERENCE** because the direct YouTube pages were not retrievable in this update. No unseen video content is treated as fact.
+
+### D-039 — Sceny z życia exhibition context
+External public material confirms a "Sceny z życia" exhibition at Galeria MOST in Český Těšín from 30 July to 23 August 2024 with 41 works. The screenplay's SCENA 12F remains the authority for the film's depiction of that exhibition.
+
 ## Ongoing update protocol
 
 When the user supplies a new:
@@ -120,9 +135,10 @@ When the user supplies a new:
 - visual style rule;
 - prompt rule;
 - model/workflow rule;
+- external reference;
 
 update this log and the relevant master document immediately.
 
 ## Current state
 
-The project is in **pre-production / visual bible construction**. Character references and continuity are being locked before the full shot-by-shot prompt pack is finalized.
+The project is in **pre-production / visual bible construction**. The repository now contains the narrative spine, chronology, source catalog, character references, tattoo continuity and production framework. Character references and continuity are being locked before the full shot-by-shot prompt pack is finalized.
