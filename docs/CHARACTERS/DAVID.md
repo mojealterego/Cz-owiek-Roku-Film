@@ -1,11 +1,21 @@
-# DAVID — VISUAL CHARACTER LOCK
+# DAVID — CANONICAL CHARACTER & VISUAL LOCK
 
 ## Status
 
 **CHARACTER:** DAVID
-**SOURCE ROLE:** osoba wskazana przez użytkownika jako „ten trzeci David”
+**CANONICAL STATUS:** SINGLE DAVID IN THE BOOK / PROJECT
 **VISUAL REFERENCE:** supplied by user in current production workflow
 **STATUS:** VISUAL REFERENCE LOCKED
+
+## Canonical identity
+
+There is **only one David in the book** and therefore only one canonical David character to track in the project.
+
+The supplied photograph is the visual reference for **this David**.
+
+Do not create, split, duplicate, or distinguish additional Davids unless the user explicitly establishes a new separate character in the source material.
+
+The earlier wording suggesting a "third David" was incorrect and is superseded by this document.
 
 ## Visual reference
 
@@ -68,6 +78,7 @@ Only visible physical characteristics are locked from this photograph. The photo
 
 ## Continuity
 
-This reference must be used consistently for David in all future image/video generations. Different scenes may change wardrobe, lighting, hairstyle styling, facial expression, body posture and environmental context, but the underlying facial identity must remain stable.
+This reference must be used consistently for **the single canonical David** in all future image/video generations. Different scenes may change wardrobe, lighting, hairstyle styling, facial expression, body posture and environmental context, but the underlying facial identity must remain stable.
 
+**CANONICAL IDENTITY LOCK:** ACTIVE
 **VISUAL LOCK:** ACTIVE
