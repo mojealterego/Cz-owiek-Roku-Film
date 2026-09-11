@@ -57,7 +57,7 @@ User supplied a photograph as the visual reference for Karol. The reference esta
 The dog, wooden deck chair and exact location/background visible in Karol's reference photograph are not automatically part of the film character or permanent set. They are photographic context only unless later supported by the source.
 
 ### D-018 — Karol narrative importance
-Karol must not be treated as background extra. In the source he is a neighbor who delivers a key revelation about Weronika and Dawid and later helps Andrzej with documents and court-related writing; his visual identity therefore requires continuity across his appearances. fileciteturn31file2L102-L114
+Karol must not be treated as background extra. In the source he is a neighbor who delivers a key revelation about Weronika and Dawid and later helps Andrzej with documents and court-related writing; his visual identity therefore requires continuity across his appearances.
 
 ### D-019 — Sebastian visual reference
 User supplied a photograph as the visual reference for Sebastian, the younger brother of Karol. Source establishes Sebastian as 24 years old. The photograph establishes a young male appearance with very short hair, dark rectangular glasses, light complexion, stockier build, strong arms and visible tattooing on the right arm/forearm.
@@ -73,6 +73,15 @@ User supplied a photograph as the visual reference for Julka. The image establis
 
 ### D-023 — Julka source integrity
 No biography, psychology, occupation, relationship or additional narrative facts may be inferred from Julka's photograph. Scene-specific wardrobe and behavior must come from the screenplay/source material.
+
+### D-024 — Adrian visual reference
+User supplied a photograph identified as Adrian. The photograph is now the primary visual reference for Adrian's film representation: adult male, short neatly clipped light-brown/dark-blond hair, rectangular black prescription glasses, light complexion, solid/broad natural build, strong forearms and understated everyday masculine appearance.
+
+### D-025 — Adrian photo-specific context is not a character lock
+The dog, furniture, interior, signage, watch and exact clothing visible in Adrian's reference photograph are photographic context only and are not permanent film elements unless later supported by a source.
+
+### D-026 — Adrian source integrity
+No biography, occupation, personality, relationship, dialogue, chronology or narrative function is inferred from Adrian's photograph alone. Those elements require screenplay/book support or explicit user instruction.
 
 ## Ongoing update protocol
 
