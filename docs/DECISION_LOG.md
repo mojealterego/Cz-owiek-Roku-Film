@@ -83,6 +83,21 @@ The dog, furniture, interior, signage, watch and exact clothing visible in Adria
 ### D-026 — Adrian source integrity
 No biography, occupation, personality, relationship, dialogue, chronology or narrative function is inferred from Adrian's photograph alone. Those elements require screenplay/book support or explicit user instruction.
 
+### D-027 — Tomek visual reference
+User supplied a photograph identified as **Tomek — Tatuator**. User establishes Tomek as a tattoo artist. The photograph is the primary visual reference: adult male, very short light-brown/dark-blond hair, light complexion, narrow moustache/light facial hair, solid natural build; the supplied image also shows dark sunglasses, black shirt and dark patterned waistcoat.
+
+### D-028 — Tomek tattoo-transformation continuity
+Tomek is associated with the tattoo-work stage of Andrzej's transformation. His visual identity must remain consistent in any scene where he performs or is connected to the tattoo work.
+
+### D-029 — Tomek photo-specific context is not a character lock
+The exact clothing, sunglasses, bouquet/event environment, garden and other photographic surroundings are not permanent film elements unless later established by the source.
+
+### D-030 — Tomek's wife reference
+The same photograph contains a woman whom the user explicitly identifies as **Tomek's wife**. Her name, occupation, personality and film role have not been supplied. She is stored as a separate visual-reference entity and must not be merged into Tomek's character record.
+
+### D-031 — Tomek's wife source integrity
+Only the relationship label “Tomek's wife” and visible appearance are currently locked. No additional narrative facts may be inferred from the photograph.
+
 ## Ongoing update protocol
 
 When the user supplies a new:
