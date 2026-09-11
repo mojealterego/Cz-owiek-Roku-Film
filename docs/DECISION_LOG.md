@@ -68,6 +68,12 @@ The dog, furniture, room and exact clothing visible in Sebastian's reference pho
 ### D-021 — Karol/Sebastian relationship continuity
 Sebastian must remain visually distinct from Karol while being consistently recognizable as his younger brother. Do not generate Sebastian as a duplicate of Karol or as an interchangeable extra.
 
+### D-022 — Julka visual reference
+User supplied a photograph as the visual reference for Julka. The image establishes an adult woman with very light/blonde long straight hair and bangs, light complexion, light eyes, defined eyes/lashes, fuller lips, delicate facial features and a slim feminine build. The specific venue, background, clothing and accessories are not global locks.
+
+### D-023 — Julka source integrity
+No biography, psychology, occupation, relationship or additional narrative facts may be inferred from Julka's photograph. Scene-specific wardrobe and behavior must come from the screenplay/source material.
+
 ## Ongoing update protocol
 
 When the user supplies a new:
