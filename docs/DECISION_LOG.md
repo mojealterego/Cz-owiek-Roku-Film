@@ -41,6 +41,15 @@ Do not identify the real person depicted in the supplied photos or infer biograp
 ### D-012 — No silent invention
 Missing source facts must not be filled with generic assumptions. Any creative addition must be labelled as an adaptation or film decision.
 
+### D-013 — Zuzia visual reference
+User supplied three reference photographs for Zuzia: two showing Zuzia with Weronika and one showing Zuzia alone. These photographs are now the primary visual reference for Zuzia's face, hair, proportions and natural child appearance. The Christmas setting and clothing visible in the photographs are **not** global wardrobe/scenography locks unless supported by the relevant scene.
+
+### D-014 — Weronika visual reference
+User supplied two reference photographs showing Weronika with Zuzia. These photographs are now the primary visual reference for Weronika's face, hair, proportions and natural appearance. The Christmas setting and clothing visible in the photographs are **not** global wardrobe/scenography locks unless supported by the relevant scene.
+
+### D-015 — Zuzia/Weronika shared-frame continuity
+The supplied photographs provide a direct visual reference for Zuzia and Weronika appearing together. Their shared appearance should be preserved in AI character consistency, while no additional psychological, biographical or narrative facts may be inferred solely from the photographs.
+
 ## Ongoing update protocol
 
 When the user supplies a new:
