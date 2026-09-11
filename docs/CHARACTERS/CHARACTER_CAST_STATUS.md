@@ -9,6 +9,7 @@ Centralny indeks referencji postaci. Dokument rozdziela **REFERENCE LOCK**, **SO
 | Andrzej | LOCKED / MASTER | 42 lata; górnik; fotograf; pełna referencja wizualna; pełna mapa tatuaży; chronologia tatuażu pleców. |
 | Weronika | LOCKED | Referencja wizualna z dostarczonych zdjęć; partnerka/żona Andrzeja; jej portret jest pierwotnym tatuażem na plecach Andrzeja. |
 | Zuzia | LOCKED | 8 lat; córka Andrzeja; trzy dostarczone zdjęcia jako primary visual reference. |
+| Wiktoria | LOCKED | Wiktoria; dostarczone zdjęcia jako primary visual reference; jej portrety stanowią centralny temat fotograficznego "Projektu W." po hospitalizacji Andrzeja. |
 | Paulina | LOCKED | Postać drugoplanowa; rozdział 59; lodziarnia; dostarczone zdjęcia jako visual reference. |
 | Karol | LOCKED | 30 lat; sąsiad Andrzeja; dostarczone zdjęcie; charakterystyczne okulary, krótka fryzura, krępa sylwetka, tatuaż prawej ręki. |
 | Sebastian | LOCKED | 24 lata; młodszy brat Karola; dostarczone zdjęcie; odrębna ciągłość wizualna od Karola. |
@@ -23,6 +24,13 @@ Centralny indeks referencji postaci. Dokument rozdziela **REFERENCE LOCK**, **SO
 - Andrzej ↔ Zuzia — ojciec/córka.
 - Karol ↔ Sebastian — starszy/młodszy brat.
 - Tomek ↔ Żona Tomka — małżeństwo.
+
+## PROJECT W LOCK
+
+- Wiktoria jest wizualnie zablokowana jako jedna, spójna postać.
+- Jej fotografie są przedmiotem/tematem "Projektu W." po hospitalizacji Andrzeja.
+- Wystawa stanowi odwrócenie oczekiwania publiczności: zamiast oczekiwanej kontynuacji narracji Weroniki pojawiają się portrety Wiktorii.
+- Nie tworzyć różnych wersji tożsamości Wiktorii dla różnych ujęć.
 
 ## CRITICAL CONTINUITY LOCK — ANDRZEJ BACK TATTOO
 
