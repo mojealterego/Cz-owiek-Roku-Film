@@ -17,6 +17,7 @@ Centralny indeks referencji postaci. Dokument rozdziela **REFERENCE LOCK**, **SO
 | Adrian | LOCKED VISUAL ONLY | Dostarczone zdjęcie jako primary visual reference. Rola narracyjna wymaga źródła. |
 | Tomek | LOCKED | Tatuator; dostarczone zdjęcie jako primary visual reference; powiązany z etapem transformacji tatuażu Andrzeja. |
 | Żona Tomka | REFERENCE ONLY / OFF-SCREEN | Dostarczone zdjęcie; użytkownik potwierdził, że jest żoną Tomka. Obecnie nie występuje w filmie. |
+| Bożena | LOCKED | Dostarczone zdjęcie jako primary visual reference; na referencji stoi obok Andrzeja w przestrzeni wystawienniczej. |
 
 ## RELATIONSHIP LOCKS
 
@@ -24,6 +25,7 @@ Centralny indeks referencji postaci. Dokument rozdziela **REFERENCE LOCK**, **SO
 - Andrzej ↔ Zuzia — ojciec/córka.
 - Karol ↔ Sebastian — starszy/młodszy brat.
 - Tomek ↔ Żona Tomka — małżeństwo.
+- Andrzej ↔ Bożena — wspólna obecność w dostarczonej fotografii; charakter relacji poza tym kadrem wymaga źródła.
 
 ## PROJECT W LOCK
 
