@@ -18,6 +18,8 @@ Centralny indeks referencji postaci. Dokument rozdziela **REFERENCE LOCK**, **SO
 | Tomek | LOCKED | Tatuator; dostarczone zdjęcie jako primary visual reference; powiązany z etapem transformacji tatuażu Andrzeja. |
 | Żona Tomka | REFERENCE ONLY / OFF-SCREEN | Dostarczone zdjęcie; użytkownik potwierdził, że jest żoną Tomka. Obecnie nie występuje w filmie. |
 | Bożena | LOCKED | Dostarczone zdjęcie jako primary visual reference; na referencji stoi obok Andrzeja w przestrzeni wystawienniczej. |
+| Michał | LOCKED | Dostarczone zdjęcie jako primary visual reference; na referencji stoi obok Tadeusza w przestrzeni wystawienniczej. |
+| Tadeusz | LOCKED | Dostarczone zdjęcie jako primary visual reference; fotograf; uczestnik wystawy "Projekt W."; na referencji stoi obok Michała. |
 
 ## RELATIONSHIP LOCKS
 
@@ -26,12 +28,15 @@ Centralny indeks referencji postaci. Dokument rozdziela **REFERENCE LOCK**, **SO
 - Karol ↔ Sebastian — starszy/młodszy brat.
 - Tomek ↔ Żona Tomka — małżeństwo.
 - Andrzej ↔ Bożena — wspólna obecność w dostarczonej fotografii; charakter relacji poza tym kadrem wymaga źródła.
+- Michał ↔ Tadeusz — wspólna obecność w dostarczonej fotografii; charakter relacji poza tym kadrem wymaga źródła.
 
 ## PROJECT W LOCK
 
 - Wiktoria jest wizualnie zablokowana jako jedna, spójna postać.
 - Jej fotografie są przedmiotem/tematem "Projektu W." po hospitalizacji Andrzeja.
 - Wystawa stanowi odwrócenie oczekiwania publiczności: zamiast oczekiwanej kontynuacji narracji Weroniki pojawiają się portrety Wiktorii.
+- Tadeusz jest potwierdzonym uczestnikiem wystawy "Projekt W." i fotografem.
+- Michał jest potwierdzony jako osoba obecna w tym samym kontekście wystawienniczym; jego dalsza rola wymaga źródła.
 - Nie tworzyć różnych wersji tożsamości Wiktorii dla różnych ujęć.
 
 ## CRITICAL CONTINUITY LOCK — ANDRZEJ BACK TATTOO
